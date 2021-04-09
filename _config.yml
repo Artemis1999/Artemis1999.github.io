@@ -2,7 +2,7 @@
 title: 'little moon'
 description: 'just for happy!'
 keywords: 'love'
-url: 'https://Artemis1999.github.io' # your host
+url: 'assets/moon.png' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
