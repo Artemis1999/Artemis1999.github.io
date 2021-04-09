@@ -20,7 +20,7 @@ webtitle: 'JFL'
 bio: 'personal blog'
 about: true
 aboutyou: 'boring but intrernsting girl.'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/moon.png' # your portraits image file path
 
 # SNS
 SNS: true
