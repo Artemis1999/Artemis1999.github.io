@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'little moon'
 NickName: '小月亮'
-webtitle: 'JFL'
+webtitle: 'Just For Lover'
 bio: 'personal blog'
 about: true
 aboutyou: 'boring but intrernsting girl.'
@@ -26,11 +26,11 @@ portraits: '/assets/moon2.png' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
-  weixin: '/assets/weibo.jpg' # 你的微信二维码存放的地址
+  weixin: 'assets/weixin.jpg' # 你的微信二维码存放的地址
   qq: http://wpa.qq.com/msgrd?v=3&uin='3351264931'&site=qq&menu=yes # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   #github: ''
   #Codepen: ''
-  weibo: '/assets/weibo.jpg'
+  weibo: 'assets/weibo.jpg'
   #instagram: ''
   #Twitter: ''
   #Dribbble: ''
